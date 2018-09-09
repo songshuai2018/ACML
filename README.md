@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Background and Motivation:
 
-You can use the [editor on GitHub](https://github.com/songshuai2018/songshuai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As the AI named AlphaGo defeated the world's best Go player in 2016, AIs are brought into the classroom to individualize learning in the form of adaptive learning. They analyze the students and note their weaknesses and strengths, then change the course around so that students can polish up areas which they may be struggling with. They also responds to the students' needs and personalizes the course to best fit their talents.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Topics:
 
-### Markdown
+Interested topics include, but are not limited to:
+  1) Bridging the Gap Between Theory and Practice: How AI powers Adaptive Education
+  2) New model or algorithm for knowledge assessment and learning
+  3) Quantitative assessment, such as by comparison experiment, of the effectiveness of AI powered adaptive education system
+  4) Clustering algorithm for the profiling of the users of adaptive education system
+  5) Applying research from cognition, perception, and memory to design and evaluate adaptive learning technology for education
+  6) Using learning science theories and learning analytics to conduct research that inform adaptive instructional design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Program:
 
-```markdown
-Syntax highlighted code block
+ACML is the most influential conference about machine learning in asia pacific area. We take this chance to present the most recent developing of machine learning technology used in education.The sharing and suggestion of such technology is welcome. If you are interested, please contact the organizers of this workshop. The workshop will consist of invited talks, presentations and discussion sessions spread over a one-day period. 
 
-# Header 1
-## Header 2
-### Header 3
+##Organizers:
+Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China          cuiwei@songshuai.com
+Dr. Zhen Xue, Shanghai Yixue Education Technology Ltd., China      xuezhen@mail.ustc.edu.cn
+Dr. Sam Wang, SRI international (Stanford Research Institute), USA         sam.wang@sri.com
 
-- Bulleted
-- List
+## References:
+Feng, M., Cui, W., & Wang, S. (2018). Adaptive learning goes to China. Artificial Intelligence in Education, 10948, 89-93.
+Li, H., Cui, W., Xu, Z., Zhu, Z., & Feng., M. (2018). Yixue adaptive learning system and its promise on improving student learning. Proceedings of the 10th International Conference on Computer Supported
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songshuai2018/songshuai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
