@@ -25,6 +25,4 @@ Dr. Sam Wang, SRI international (Stanford Research Institute), USA         sam.w
 Feng, M., Cui, W., & Wang, S. (2018). Adaptive learning goes to China. Artificial Intelligence in Education, 10948, 89-93.
 Li, H., Cui, W., Xu, Z., Zhu, Z., & Feng., M. (2018). Yixue adaptive learning system and its promise on improving student learning. Proceedings of the 10th International Conference on Computer Supported
 
-## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
