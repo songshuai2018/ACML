@@ -16,7 +16,7 @@ Interested topics include, but are not limited to:
 
 ACML is the most influential conference about machine learning in asia pacific area. We take this chance to present the most recent developing of machine learning technology used in education.The sharing and suggestion of such technology is welcome. If you are interested, please contact the organizers of this workshop. The workshop will consist of invited talks, presentations and discussion sessions spread over a one-day period. 
 
-##Organizers:
+## Organizers:
 Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China          cuiwei@songshuai.com
 Dr. Zhen Xue, Shanghai Yixue Education Technology Ltd., China      xuezhen@mail.ustc.edu.cn
 Dr. Sam Wang, SRI international (Stanford Research Institute), USA         sam.wang@sri.com
