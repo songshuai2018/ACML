@@ -6,6 +6,7 @@ As the AI named AlphaGo defeated the world's best Go player in 2016, AIs are bro
 
 Interested topics include, but are not limited to:
 
+
   1) Bridging the Gap Between Theory and Practice: How AI powers Adaptive Education
   
   2) New model or algorithm for knowledge assessment and learning
