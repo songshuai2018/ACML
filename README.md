@@ -18,7 +18,9 @@ ACML is the most influential conference about machine learning in asia pacific a
 
 ## Organizers:
 Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China          cuiwei@songshuai.com
+
 Dr. Zhen Xue, Shanghai Yixue Education Technology Ltd., China      xuezhen@mail.ustc.edu.cn
+
 Dr. Sam Wang, SRI international (Stanford Research Institute), USA         sam.wang@sri.com
 
 ## References:
